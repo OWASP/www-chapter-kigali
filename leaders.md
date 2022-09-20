@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Kevin Nyawakira](mailto:kevin.nyawakira@owasp.org)
+* [Joel Kashaija](mailto:joel.kashaija@owasp.org)
